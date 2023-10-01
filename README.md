@@ -1,0 +1,1 @@
+# tamagotchi_project
